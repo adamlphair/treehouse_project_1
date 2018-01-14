@@ -102,6 +102,10 @@ header .profile-image:hover {
   border-color: #ff9904;
 }
 
+.contact{
+  text-align: center;
+}
+
 .techskills {
   display: grid;
 }
